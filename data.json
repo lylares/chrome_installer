@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "135.0.7030.1",
-        "size": 158360944,
-        "sha1": "9543b6c4dbbd2e416b2672c971356c33d7fe06a4",
-        "sha256": "f1348d98beaa37c279f93bb42a769780bf80836709e560e4d5e4fc9b742a6dfd",
+        "version": "135.0.7031.0",
+        "size": 126167920,
+        "sha1": "514bbd7196522b9a7e3c4b190ca1e5d8576bd376",
+        "sha256": "603f8d490f9e47f683017952aec8b95026de1e93eea27ecf7c9992e15f0252cb",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/geps7zwqfbgtsdce7a3lybosui_135.0.7030.1/135.0.7030.1_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/geps7zwqfbgtsdce7a3lybosui_135.0.7030.1/135.0.7030.1_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/geps7zwqfbgtsdce7a3lybosui_135.0.7030.1/135.0.7030.1_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/geps7zwqfbgtsdce7a3lybosui_135.0.7030.1/135.0.7030.1_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/geps7zwqfbgtsdce7a3lybosui_135.0.7030.1/135.0.7030.1_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/geps7zwqfbgtsdce7a3lybosui_135.0.7030.1/135.0.7030.1_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/eccwwzl4q3kyrcjgkdg6ccx7gm_135.0.7031.0/135.0.7031.0_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/eccwwzl4q3kyrcjgkdg6ccx7gm_135.0.7031.0/135.0.7031.0_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/eccwwzl4q3kyrcjgkdg6ccx7gm_135.0.7031.0/135.0.7031.0_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/eccwwzl4q3kyrcjgkdg6ccx7gm_135.0.7031.0/135.0.7031.0_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/eccwwzl4q3kyrcjgkdg6ccx7gm_135.0.7031.0/135.0.7031.0_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/eccwwzl4q3kyrcjgkdg6ccx7gm_135.0.7031.0/135.0.7031.0_chrome_installer.exe"
         ]
     }
 }
