@@ -70,10 +70,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/gbuih3yyjzxgzn7kngq2ctl3gy_135.0.7023.0/135.0.7023.0_chrome_installer.exe](https://dl.google.com/release2/chrome/gbuih3yyjzxgzn7kngq2ctl3gy_135.0.7023.0/135.0.7023.0_chrome_installer.exe)  
 
 ## win canary x86
-**最新版本**：135.0.7033.0  
+**最新版本**：135.0.7034.0  
 **文件大小**：102.94 MB  
-**校验值（Sha256）**：cd541bacf231301c9998dea9fa9b8b1579919aa52b4439553fdc4271cf60dcf2  
-**下载链接**：[https://dl.google.com/release2/chrome/fmku2t3pio7c6lxczc5andd3vi_135.0.7033.0/135.0.7033.0_chrome_installer.exe](https://dl.google.com/release2/chrome/fmku2t3pio7c6lxczc5andd3vi_135.0.7033.0/135.0.7033.0_chrome_installer.exe)  
+**校验值（Sha256）**：8aa708dc52b4361d143b80b8acdf8b552d1e74c311cdac0510f778013b56fd20  
+**下载链接**：[https://dl.google.com/release2/chrome/aclgki4zo72cit5rdm3t6m35mxzq_135.0.7034.0/135.0.7034.0_chrome_installer.exe](https://dl.google.com/release2/chrome/aclgki4zo72cit5rdm3t6m35mxzq_135.0.7034.0/135.0.7034.0_chrome_installer.exe)  
 
 ## win canary x64
 **最新版本**：135.0.7034.0  
@@ -82,8 +82,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/aczb7r6xi6txpm57tgtt4tdm4h6a_135.0.7034.0/135.0.7034.0_chrome_installer.exe](https://dl.google.com/release2/chrome/aczb7r6xi6txpm57tgtt4tdm4h6a_135.0.7034.0/135.0.7034.0_chrome_installer.exe)  
 
 ## win canary arm64
-**最新版本**：135.0.7033.1  
-**文件大小**：151.01 MB  
-**校验值（Sha256）**：908ef6966af3d94fbdfa6ed1cb287f326650a4085090a4d19f1d8957cfdd6555  
-**下载链接**：[https://dl.google.com/release2/chrome/ac2a4jm6vdxaiqfn5z3yuj2wpq5a_135.0.7033.1/135.0.7033.1_chrome_installer.exe](https://dl.google.com/release2/chrome/ac2a4jm6vdxaiqfn5z3yuj2wpq5a_135.0.7033.1/135.0.7033.1_chrome_installer.exe)  
+**最新版本**：135.0.7034.0  
+**文件大小**：120.33 MB  
+**校验值（Sha256）**：18398987043fbac9ff510b3392cb9c1108be892927b31ce5b05c9bbe1202adcf  
+**下载链接**：[https://dl.google.com/release2/chrome/do7hyrujapm35w3otlsj767gba_135.0.7034.0/135.0.7034.0_chrome_installer.exe](https://dl.google.com/release2/chrome/do7hyrujapm35w3otlsj767gba_135.0.7034.0/135.0.7034.0_chrome_installer.exe)  
 
