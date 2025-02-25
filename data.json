@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "135.0.7034.0",
-        "size": 126179184,
-        "sha1": "234a6e23cbc326c534ddc8246ef74d82344a7b16",
-        "sha256": "18398987043fbac9ff510b3392cb9c1108be892927b31ce5b05c9bbe1202adcf",
+        "version": "135.0.7034.1",
+        "size": 158377328,
+        "sha1": "f2c8904469234400368effc17b888be79e76be39",
+        "sha256": "14bb9605038dca46c7cc8da2fb3ce3e89552d9a18f87067bc5a5558c92cb714c",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/do7hyrujapm35w3otlsj767gba_135.0.7034.0/135.0.7034.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/do7hyrujapm35w3otlsj767gba_135.0.7034.0/135.0.7034.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/do7hyrujapm35w3otlsj767gba_135.0.7034.0/135.0.7034.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/do7hyrujapm35w3otlsj767gba_135.0.7034.0/135.0.7034.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/do7hyrujapm35w3otlsj767gba_135.0.7034.0/135.0.7034.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/do7hyrujapm35w3otlsj767gba_135.0.7034.0/135.0.7034.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/ac6xyk2hcwinedephp52txwfw6ba_135.0.7034.1/135.0.7034.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/ac6xyk2hcwinedephp52txwfw6ba_135.0.7034.1/135.0.7034.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/ac6xyk2hcwinedephp52txwfw6ba_135.0.7034.1/135.0.7034.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/ac6xyk2hcwinedephp52txwfw6ba_135.0.7034.1/135.0.7034.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/ac6xyk2hcwinedephp52txwfw6ba_135.0.7034.1/135.0.7034.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/ac6xyk2hcwinedephp52txwfw6ba_135.0.7034.1/135.0.7034.1_chrome_installer.exe"
         ]
     }
 }
