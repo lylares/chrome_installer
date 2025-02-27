@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "135.0.7039.0",
-        "size": 125776240,
-        "sha1": "2376c030115112431a21c918e48754c0425bf0e5",
-        "sha256": "b0ce2a549d281754c3e9684ef0090f218197ca694b1518e758aea19e0e99b941",
+        "version": "135.0.7039.1",
+        "size": 158588272,
+        "sha1": "8a1bcc1ef61e8cc8e2002294d41d9f420d42f8b9",
+        "sha256": "d8b8b9abcf0d7fbbee4155e565c2a95151d64a7ac7e8fef85f9b628683a6b740",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/ac7rn3jm5pdgu32ylxb76aqo7eia_135.0.7039.0/135.0.7039.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/ac7rn3jm5pdgu32ylxb76aqo7eia_135.0.7039.0/135.0.7039.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/ac7rn3jm5pdgu32ylxb76aqo7eia_135.0.7039.0/135.0.7039.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/ac7rn3jm5pdgu32ylxb76aqo7eia_135.0.7039.0/135.0.7039.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/ac7rn3jm5pdgu32ylxb76aqo7eia_135.0.7039.0/135.0.7039.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/ac7rn3jm5pdgu32ylxb76aqo7eia_135.0.7039.0/135.0.7039.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/n7ooojcqswypmdq45ky3k3lani_135.0.7039.1/135.0.7039.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/n7ooojcqswypmdq45ky3k3lani_135.0.7039.1/135.0.7039.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/n7ooojcqswypmdq45ky3k3lani_135.0.7039.1/135.0.7039.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/n7ooojcqswypmdq45ky3k3lani_135.0.7039.1/135.0.7039.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/n7ooojcqswypmdq45ky3k3lani_135.0.7039.1/135.0.7039.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/n7ooojcqswypmdq45ky3k3lani_135.0.7039.1/135.0.7039.1_chrome_installer.exe"
         ]
     }
 }
