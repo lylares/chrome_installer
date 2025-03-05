@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "135.0.7049.5",
-        "size": 125772656,
-        "sha1": "86f68c2ba94ae05b35af6b7747298700ee76c8ad",
-        "sha256": "77342ccc29556c6ca4c3fd0e12eeaa652dbc776347e6a90661926e6583a4614b",
+        "version": "135.0.7049.6",
+        "size": 158656368,
+        "sha1": "4884d26b050395de9916c797232f3a20e459e144",
+        "sha256": "3caf9fd8774d5b21ca24e19968327ab0c645a32dbbb4de6fde1a8b01fc76ae9c",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/eilfi52v33an7pwbim4pxbwzea_135.0.7049.5/135.0.7049.5_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/eilfi52v33an7pwbim4pxbwzea_135.0.7049.5/135.0.7049.5_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/eilfi52v33an7pwbim4pxbwzea_135.0.7049.5/135.0.7049.5_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/eilfi52v33an7pwbim4pxbwzea_135.0.7049.5/135.0.7049.5_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/eilfi52v33an7pwbim4pxbwzea_135.0.7049.5/135.0.7049.5_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/eilfi52v33an7pwbim4pxbwzea_135.0.7049.5/135.0.7049.5_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/bmx5ydpqpzp5lu77qppgzoemwm_135.0.7049.6/135.0.7049.6_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/bmx5ydpqpzp5lu77qppgzoemwm_135.0.7049.6/135.0.7049.6_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/bmx5ydpqpzp5lu77qppgzoemwm_135.0.7049.6/135.0.7049.6_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/bmx5ydpqpzp5lu77qppgzoemwm_135.0.7049.6/135.0.7049.6_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/bmx5ydpqpzp5lu77qppgzoemwm_135.0.7049.6/135.0.7049.6_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/bmx5ydpqpzp5lu77qppgzoemwm_135.0.7049.6/135.0.7049.6_chrome_installer.exe"
         ]
     }
 }
