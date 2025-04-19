@@ -140,17 +140,17 @@
         ]
     },
     "win_canary_x64": {
-        "version": "137.0.7133.1",
-        "size": 160561008,
-        "sha1": "8641c710ed87e80020e41c7c67f821d337334b8a",
-        "sha256": "39944e62998f6532237a83d10828e73432c77783a31e9de0eba65b592b34a2ed",
+        "version": "137.0.7134.0",
+        "size": 122478448,
+        "sha1": "9ff969303c4cb4939a056bc464bf4851a39cb85f",
+        "sha256": "2e7672b4766101858dfbbd01680ef3ef5dffded69fe3cdafbb0289b7e7615fc6",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/ade23r5lmcukqtmoi6cg4aaupk3a_137.0.7133.1/137.0.7133.1_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/ade23r5lmcukqtmoi6cg4aaupk3a_137.0.7133.1/137.0.7133.1_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/ade23r5lmcukqtmoi6cg4aaupk3a_137.0.7133.1/137.0.7133.1_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/ade23r5lmcukqtmoi6cg4aaupk3a_137.0.7133.1/137.0.7133.1_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/ade23r5lmcukqtmoi6cg4aaupk3a_137.0.7133.1/137.0.7133.1_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/ade23r5lmcukqtmoi6cg4aaupk3a_137.0.7133.1/137.0.7133.1_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/mxae5rwcrspacfrbuyoniesirq_137.0.7134.0/137.0.7134.0_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/mxae5rwcrspacfrbuyoniesirq_137.0.7134.0/137.0.7134.0_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/mxae5rwcrspacfrbuyoniesirq_137.0.7134.0/137.0.7134.0_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/mxae5rwcrspacfrbuyoniesirq_137.0.7134.0/137.0.7134.0_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/mxae5rwcrspacfrbuyoniesirq_137.0.7134.0/137.0.7134.0_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/mxae5rwcrspacfrbuyoniesirq_137.0.7134.0/137.0.7134.0_chrome_installer.exe"
         ]
     },
     "win_canary_arm64": {
