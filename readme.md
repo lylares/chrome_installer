@@ -70,20 +70,20 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adp2npsqmtxbms5dcnm5idlvukyq_137.0.7127.2/137.0.7127.2_chrome_installer.exe](https://dl.google.com/release2/chrome/adp2npsqmtxbms5dcnm5idlvukyq_137.0.7127.2/137.0.7127.2_chrome_installer.exe)  
 
 ## win canary x86
-**最新版本**：137.0.7134.1  
-**文件大小**：123.38 MB  
-**校验值（Sha256）**：07a5f505bd3f71e9d61697090318d333af3ff2049745d715904154060aa51b94  
-**下载链接**：[https://dl.google.com/release2/chrome/i7irp4bnrdp3qfcx7qe5zqn3b4_137.0.7134.1/137.0.7134.1_chrome_installer.exe](https://dl.google.com/release2/chrome/i7irp4bnrdp3qfcx7qe5zqn3b4_137.0.7134.1/137.0.7134.1_chrome_installer.exe)  
+**最新版本**：137.0.7135.0  
+**文件大小**：104.88 MB  
+**校验值（Sha256）**：9ab80ec39bed3892909bd1f01b3fd59a4dc15b732524891f270c5e3db1776ca5  
+**下载链接**：[https://dl.google.com/release2/chrome/acrghz24pdo6nffsu7icgyqfenga_137.0.7135.0/137.0.7135.0_chrome_installer.exe](https://dl.google.com/release2/chrome/acrghz24pdo6nffsu7icgyqfenga_137.0.7135.0/137.0.7135.0_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：137.0.7134.1  
-**文件大小**：153.13 MB  
-**校验值（Sha256）**：9b84d463b1eda1470f55adcb1f23fbb63bc33be66ee8131bbfffeba7a34ab8e3  
-**下载链接**：[https://dl.google.com/release2/chrome/k3bgrm3hoxldy4fc7kc3ypctzy_137.0.7134.1/137.0.7134.1_chrome_installer.exe](https://dl.google.com/release2/chrome/k3bgrm3hoxldy4fc7kc3ypctzy_137.0.7134.1/137.0.7134.1_chrome_installer.exe)  
+**最新版本**：137.0.7135.0  
+**文件大小**：116.93 MB  
+**校验值（Sha256）**：820c68669cf249d8dd0553dcbe96d1e07b42888af678b084456b9dab5d5dfaa0  
+**下载链接**：[https://dl.google.com/release2/chrome/b2kx3lzdf2u5udqohw5qfc3gsq_137.0.7135.0/137.0.7135.0_chrome_installer.exe](https://dl.google.com/release2/chrome/b2kx3lzdf2u5udqohw5qfc3gsq_137.0.7135.0/137.0.7135.0_chrome_installer.exe)  
 
 ## win canary arm64
-**最新版本**：137.0.7134.0  
-**文件大小**：121.37 MB  
-**校验值（Sha256）**：b9a584d88a0c72e1976b172b2a293081b461125a1ac00f1ad5b2e952a2b862df  
-**下载链接**：[https://dl.google.com/release2/chrome/dmjo2bwqi7f5rn7l2ukpvmzwpq_137.0.7134.0/137.0.7134.0_chrome_installer.exe](https://dl.google.com/release2/chrome/dmjo2bwqi7f5rn7l2ukpvmzwpq_137.0.7134.0/137.0.7134.0_chrome_installer.exe)  
+**最新版本**：137.0.7135.0  
+**文件大小**：121.3 MB  
+**校验值（Sha256）**：55bc70eab97b2f6fa4fd18c6866eb111406f7bd188739b3d9c35717d5035ddc7  
+**下载链接**：[https://dl.google.com/release2/chrome/acz3ggwqiv4ulkrrnis2ngqmq7lq_137.0.7135.0/137.0.7135.0_chrome_installer.exe](https://dl.google.com/release2/chrome/acz3ggwqiv4ulkrrnis2ngqmq7lq_137.0.7135.0/137.0.7135.0_chrome_installer.exe)  
 
