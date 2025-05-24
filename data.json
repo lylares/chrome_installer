@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "138.0.7198.0",
-        "size": 128048496,
-        "sha1": "ac9e1340fcf8aed2d08404706e471c7689fabb5b",
-        "sha256": "bfecc08050f56acb6023f0fd6d805c94d327a49608b29eee58da1126895ec3b3",
+        "version": "138.0.7199.0",
+        "size": 128143728,
+        "sha1": "5c744970329170a8e1c16cd0124d52317a208155",
+        "sha256": "eb47f4bf7e2ac391fc941ff342f69aed2ab7c9cf5d289ac8e831167a0e937551",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/lfl35vb23nf5ukpyxoe5pjrs6e_138.0.7198.0/138.0.7198.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/lfl35vb23nf5ukpyxoe5pjrs6e_138.0.7198.0/138.0.7198.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/lfl35vb23nf5ukpyxoe5pjrs6e_138.0.7198.0/138.0.7198.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/lfl35vb23nf5ukpyxoe5pjrs6e_138.0.7198.0/138.0.7198.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/lfl35vb23nf5ukpyxoe5pjrs6e_138.0.7198.0/138.0.7198.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/lfl35vb23nf5ukpyxoe5pjrs6e_138.0.7198.0/138.0.7198.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/jlcsscbrcawf2442rvraktepey_138.0.7199.0/138.0.7199.0_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/jlcsscbrcawf2442rvraktepey_138.0.7199.0/138.0.7199.0_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/jlcsscbrcawf2442rvraktepey_138.0.7199.0/138.0.7199.0_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/jlcsscbrcawf2442rvraktepey_138.0.7199.0/138.0.7199.0_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/jlcsscbrcawf2442rvraktepey_138.0.7199.0/138.0.7199.0_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/jlcsscbrcawf2442rvraktepey_138.0.7199.0/138.0.7199.0_chrome_installer.exe"
         ]
     }
 }
