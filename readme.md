@@ -36,7 +36,7 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
-| **x86** | `151.0.7922.2` | 400.48 MB | `02ed8158ab5082c7...` | [下载](https://dl.google.com/release2/chrome/acvnwc7rrkxg66rskjisw7ln52ya_151.0.7922.2/151.0.7922.2_chrome_installer_uncompressed.exe) |
-| **x64** | `151.0.7922.2` | 487.89 MB | `c01061eab0e57b50...` | [下载](https://dl.google.com/release2/chrome/ndbwyrlrcc46sxeengs27mbp_151.0.7922.2/151.0.7922.2_chrome_installer_uncompressed.exe) |
-| **ARM64** | `151.0.7922.2` | 464.55 MB | `b2962f185adec265...` | [下载](https://dl.google.com/release2/chrome/b7tbqs7f72xmvo2lvp5jlxctdm_151.0.7922.2/151.0.7922.2_chrome_installer_uncompressed.exe) |
+| **x86** | `151.0.7922.3` | 400.48 MB | `51a2a3c04593486f...` | [下载](https://dl.google.com/release2/chrome/ad3pl4qcxtsyhsoiv2w62eefjixq_151.0.7922.3/151.0.7922.3_chrome_installer_uncompressed.exe) |
+| **x64** | `151.0.7922.3` | 487.89 MB | `fde490caf93775a6...` | [下载](https://dl.google.com/release2/chrome/acofigzi3pmhl3tqwgoebe7ico4a_151.0.7922.3/151.0.7922.3_chrome_installer_uncompressed.exe) |
+| **ARM64** | `151.0.7922.3` | 464.55 MB | `172e522237b65603...` | [下载](https://dl.google.com/release2/chrome/jwowrc4sgqdf5rkszsqf2qepka_151.0.7922.3/151.0.7922.3_chrome_installer_uncompressed.exe) |
 
