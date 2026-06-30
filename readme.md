@@ -36,7 +36,7 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
-| **x86** | `151.0.7921.0` | 397.53 MB | `622f8eca04108dbe...` | [下载](https://dl.google.com/release2/chrome/adsz4hluktikmhl7vt55yq5p6oiq_151.0.7921.0/151.0.7921.0_chrome_installer_uncompressed.exe) |
-| **x64** | `151.0.7921.1` | 725.37 MB | `64f3c2e193bb8bd2...` | [下载](https://dl.google.com/release2/chrome/ad7gdyv5ldvjokpnjydaeugdhkxa_151.0.7921.1/151.0.7921.1_chrome_installer_uncompressed.exe) |
-| **ARM64** | `151.0.7921.0` | 463.87 MB | `c52e52b3993e7666...` | [下载](https://dl.google.com/release2/chrome/adlzw5udgnh23tdta33hk54ltoya_151.0.7921.0/151.0.7921.0_chrome_installer_uncompressed.exe) |
+| **x86** | `151.0.7922.2` | 400.48 MB | `02ed8158ab5082c7...` | [下载](https://dl.google.com/release2/chrome/acvnwc7rrkxg66rskjisw7ln52ya_151.0.7922.2/151.0.7922.2_chrome_installer_uncompressed.exe) |
+| **x64** | `151.0.7922.2` | 487.89 MB | `c01061eab0e57b50...` | [下载](https://dl.google.com/release2/chrome/ndbwyrlrcc46sxeengs27mbp_151.0.7922.2/151.0.7922.2_chrome_installer_uncompressed.exe) |
+| **ARM64** | `151.0.7922.2` | 464.55 MB | `b2962f185adec265...` | [下载](https://dl.google.com/release2/chrome/b7tbqs7f72xmvo2lvp5jlxctdm_151.0.7922.2/151.0.7922.2_chrome_installer_uncompressed.exe) |
 
