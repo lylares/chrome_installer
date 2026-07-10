@@ -37,6 +37,6 @@
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
 | **x86** | `152.0.7942.0` | 402.19 MB | `3180020e7c570fc2...` | [下载](https://dl.google.com/release2/chrome/hfaeh5lisxmftbeqnybn2u7eii_152.0.7942.0/152.0.7942.0_chrome_installer_uncompressed.exe) |
-| **x64** | `152.0.7942.0` | 489.78 MB | `eff5fa05c1bffa86...` | [下载](https://dl.google.com/release2/chrome/advit5tfiuo2nr7va5oxfmxnowwq_152.0.7942.0/152.0.7942.0_chrome_installer_uncompressed.exe) |
-| **ARM64** | `152.0.7942.0` | 466.35 MB | `0bfc2704f353a665...` | [下载](https://dl.google.com/release2/chrome/ockimeead22kpovwxgdlz4ak3i_152.0.7942.0/152.0.7942.0_chrome_installer_uncompressed.exe) |
+| **x64** | `152.0.7942.1` | 752.34 MB | `7e66699ced89f4b1...` | [下载](https://dl.google.com/release2/chrome/fsn7mjsromrimrx3mnwji63h3q_152.0.7942.1/152.0.7942.1_chrome_installer_uncompressed.exe) |
+| **ARM64** | `152.0.7942.1` | 679.01 MB | `18ad5865b7e72eb4...` | [下载](https://dl.google.com/release2/chrome/adqk3orhpap4ibb52pd4jq7usora_152.0.7942.1/152.0.7942.1_chrome_installer_uncompressed.exe) |
 
