@@ -36,7 +36,7 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
-| **x86** | `157.0.8101.0` | 432.43 MB | `6226bf80610f8c1f...` | [下载](https://dl.google.com/release2/chrome/adv4pugl657pfo6tedwtluxkpo2a_157.0.8101.0/157.0.8101.0_chrome_installer_uncompressed.exe) |
-| **x64** | `157.0.8101.0` | 503.97 MB | `cfccf7f6efe18378...` | [下载](https://dl.google.com/release2/chrome/bvy3smubg2kbl7xywdzvlvobg4_157.0.8101.0/157.0.8101.0_chrome_installer_uncompressed.exe) |
-| **ARM64** | `157.0.8101.0` | 480.52 MB | `85f70697078f6bed...` | [下载](https://dl.google.com/release2/chrome/ad3tecw7pnx2d3dsekogwmaoemrq_157.0.8101.0/157.0.8101.0_chrome_installer_uncompressed.exe) |
+| **x86** | `157.0.8102.0` | 432.62 MB | `952a62b52bb26952...` | [下载](https://dl.google.com/release2/chrome/o5y4xezuspeain47wvcfy43jma_157.0.8102.0/157.0.8102.0_chrome_installer_uncompressed.exe) |
+| **x64** | `157.0.8102.0` | 505.37 MB | `55d22d7589fe421b...` | [下载](https://dl.google.com/release2/chrome/fue6b7eqszn5x6rdypsortpbge_157.0.8102.0/157.0.8102.0_chrome_installer_uncompressed.exe) |
+| **ARM64** | `157.0.8102.0` | 481.18 MB | `21eb5db14342dae5...` | [下载](https://dl.google.com/release2/chrome/h7tiugwqwzrqkij25bhqzm2nsm_157.0.8102.0/157.0.8102.0_chrome_installer_uncompressed.exe) |
 
