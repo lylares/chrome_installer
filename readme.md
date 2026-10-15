@@ -36,7 +36,7 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
-| **x86** | `158.0.8106.0` | 433.51 MB | `f62df218fd95bc00...` | [下载](https://dl.google.com/release2/chrome/capfpph3kdf44w4zvdb6uiw5nu_158.0.8106.0/158.0.8106.0_chrome_installer_uncompressed.exe) |
-| **x64** | `158.0.8106.0` | 505.39 MB | `5427ff2c39116210...` | [下载](https://dl.google.com/release2/chrome/hx7kkg7zmz7adki3pthmezg5pi_158.0.8106.0/158.0.8106.0_chrome_installer_uncompressed.exe) |
-| **ARM64** | `158.0.8106.0` | 481.65 MB | `e7edd1600c7aec6d...` | [下载](https://dl.google.com/release2/chrome/ov3g2o4b527cnbocb27o27sxji_158.0.8106.0/158.0.8106.0_chrome_installer_uncompressed.exe) |
+| **x86** | `158.0.8107.0` | 434 MB | `ffc95971166d6fa0...` | [下载](https://dl.google.com/release2/chrome/acbhrehdr3ewg7edfjtivtoduu4q_158.0.8107.0/158.0.8107.0_chrome_installer_uncompressed.exe) |
+| **x64** | `158.0.8107.0` | 506.07 MB | `68b6da171601639b...` | [下载](https://dl.google.com/release2/chrome/ac2refelpav223tf3pdzhwprn3ga_158.0.8107.0/158.0.8107.0_chrome_installer_uncompressed.exe) |
+| **ARM64** | `158.0.8107.0` | 482.16 MB | `3d4526df788f1f06...` | [下载](https://dl.google.com/release2/chrome/fo6vh4l7nxudkibnquyr4ngo4q_158.0.8107.0/158.0.8107.0_chrome_installer_uncompressed.exe) |
 
